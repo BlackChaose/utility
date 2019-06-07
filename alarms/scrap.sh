@@ -1,0 +1,39 @@
+#!/bin/bash
+
+wkhtmltopdf  https://www.gismeteo.ru/diary/4368/2016/1/ out-2016-1.pdf
+wkhtmltopdf  https://www.gismeteo.ru/diary/4368/2016/2/ out-2016-2.pdf
+wkhtmltopdf  https://www.gismeteo.ru/diary/4368/2016/3/ out-2016-3.pdf
+wkhtmltopdf  https://www.gismeteo.ru/diary/4368/2016/4/ out-2016-4.pdf
+wkhtmltopdf  https://www.gismeteo.ru/diary/4368/2016/5/ out-2016-5.pdf
+wkhtmltopdf  https://www.gismeteo.ru/diary/4368/2016/6/ out-2016-6.pdf
+wkhtmltopdf  https://www.gismeteo.ru/diary/4368/2016/7/ out-2016-7.pdf
+wkhtmltopdf  https://www.gismeteo.ru/diary/4368/2016/8/ out-2016-8.pdf
+wkhtmltopdf  https://www.gismeteo.ru/diary/4368/2016/9/ out-2016-9.pdf
+wkhtmltopdf  https://www.gismeteo.ru/diary/4368/2016/10/ out-2016-10.pdf
+wkhtmltopdf  https://www.gismeteo.ru/diary/4368/2016/11/ out-2016-11.pdf
+wkhtmltopdf  https://www.gismeteo.ru/diary/4368/2016/12/ out-2016-12.pdf
+wkhtmltopdf  https://www.gismeteo.ru/diary/4368/2017/1/ out-2017-1.pdf
+wkhtmltopdf  https://www.gismeteo.ru/diary/4368/2017/2/ out-2017-2.pdf
+wkhtmltopdf  https://www.gismeteo.ru/diary/4368/2017/3/ out-2017-3.pdf
+wkhtmltopdf  https://www.gismeteo.ru/diary/4368/2017/4/ out-2017-4.pdf
+wkhtmltopdf  https://www.gismeteo.ru/diary/4368/2017/5/ out-2017-5.pdf
+wkhtmltopdf  https://www.gismeteo.ru/diary/4368/2017/6/ out-2017-6.pdf
+wkhtmltopdf  https://www.gismeteo.ru/diary/4368/2017/7/ out-2017-7.pdf
+wkhtmltopdf  https://www.gismeteo.ru/diary/4368/2017/8/ out-2017-8.pdf
+wkhtmltopdf  https://www.gismeteo.ru/diary/4368/2017/9/ out-2017-9.pdf
+wkhtmltopdf  https://www.gismeteo.ru/diary/4368/2017/10/ out-2017-10.pdf
+wkhtmltopdf  https://www.gismeteo.ru/diary/4368/2017/11/ out-2017-11.pdf
+wkhtmltopdf  https://www.gismeteo.ru/diary/4368/2017/12/ out-2017-12.pdf
+wkhtmltopdf  https://www.gismeteo.ru/diary/4368/2018/1/ out-2018-1.pdf
+wkhtmltopdf  https://www.gismeteo.ru/diary/4368/2018/2/ out-2018-2.pdf
+wkhtmltopdf  https://www.gismeteo.ru/diary/4368/2018/3/ out-2018-3.pdf
+wkhtmltopdf  https://www.gismeteo.ru/diary/4368/2018/4/ out-2018-4.pdf
+wkhtmltopdf  https://www.gismeteo.ru/diary/4368/2018/5/ out-2018-5.pdf
+wkhtmltopdf  https://www.gismeteo.ru/diary/4368/2018/6/ out-2018-6.pdf
+wkhtmltopdf  https://www.gismeteo.ru/diary/4368/2018/7/ out-2018-7.pdf
+wkhtmltopdf  https://www.gismeteo.ru/diary/4368/2018/8/ out-2018-8.pdf
+wkhtmltopdf  https://www.gismeteo.ru/diary/4368/2018/9/ out-2018-9.pdf
+wkhtmltopdf  https://www.gismeteo.ru/diary/4368/2018/10/ out-2018-10.pdf
+wkhtmltopdf  https://www.gismeteo.ru/diary/4368/2018/11/ out-2018-11.pdf
+wkhtmltopdf  https://www.gismeteo.ru/diary/4368/2018/12/ out-2018-12.pdf
+
