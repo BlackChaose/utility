@@ -2,3 +2,11 @@
 /vendor/
 /node_modules/
 /scrap/js/node_modules/
+/.idea/
+/cURL_auth/config.php
+/cookie_file_cp
+/cookie_file_cp2
+/cookie_file_cp3
+/verbose_file.txt
+/verbose_file2.txt
+/verbose_file3.txt
