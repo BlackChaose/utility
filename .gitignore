@@ -4,9 +4,9 @@
 /scrap/js/node_modules/
 /.idea/
 /cURL_auth/config.php
-/cookie_file_cp
-/cookie_file_cp2
-/cookie_file_cp3
-/verbose_file.txt
-/verbose_file2.txt
-/verbose_file3.txt
+/cURL_auth/cookie_file_cp
+/cURL_auth/cookie_file_cp2
+/cURL_auth/cookie_file_cp3
+/cURL_auth/verbose_file.txt
+/cURL_auth/verbose_file2.txt
+/cURL_auth/verbose_file3.txt
