@@ -1,0 +1,380 @@
+    <!DOCTYPE html>
+<html lang="ru-RU">
+<head>
+    <meta charset="utf-8"/>
+    <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, minimal-ui">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <title>Not Found (#404)</title>
+
+    <meta name="description" content="">
+    <meta name="keywords" content="">
+    <meta name="csrf-param" content="_csrf">
+    <meta name="csrf-token" content="_EoC70k0pfy9uQQpVwWwFzoIyjKpSj_ZwdR28HHSN2ORP1ifeXWcy4XPPE4gduNvYzmlA54eDIa0uBmRR51eVQ==">
+    <link href="/assets/2e8449871f5c5fbda0aba8b5ac4af3cd/noty.css?v=22b505e925dc4d46f5c928d5a461334e" rel="stylesheet">
+<link href="/assets/d82f34d1788e4b138aa634ef7aa3e622/default/assets/css/helper.css?v=5bd9297dea615e5fa2b3150bd477247b" rel="stylesheet">
+<link href="/assets/7b6d8fb1571e7fc3721055b4bb0d1b4a/dist/themes/default/assets/css/app.min.css?v=b3c135c44e225b132115f9d89c2bec89" rel="stylesheet">
+<link href="/assets/7b6d8fb1571e7fc3721055b4bb0d1b4a/static/css/style.css?v=822c41004aee6a567dc221449232b0d4" rel="stylesheet">
+<link href="/assets/7b6d8fb1571e7fc3721055b4bb0d1b4a/static/css/toast.css?v=3d21491d986f81ce04f502d7c2a1bfd9" rel="stylesheet">
+<script><!-- Google Tag Manager -->
+(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-NTMKRNK');
+<!-- End Google Tag Manager -->
+
+<!-- Google Tag Manager -->
+(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-WV6GKMT');
+<!-- End Google Tag Manager -->
+
+    !function (f, b, e, v, n, t, s) {
+        if (f.fbq) return;
+        n = f.fbq = function () {
+            n.callMethod ?
+                n.callMethod.apply(n, arguments) : n.queue.push(arguments)
+        };
+        if (!f._fbq) f._fbq = n;
+        n.push = n;
+        n.loaded = !0;
+        n.version = '2.0';
+        n.queue = [];
+        t = b.createElement(e);
+        t.async = !0;
+        t.src = v;
+        s = b.getElementsByTagName(e)[0];
+        s.parentNode.insertBefore(t, s)
+    }(window, document, 'script',
+        'https://connect.facebook.net/en_US/fbevents.js');
+    fbq('init', '1056406514483138');
+    fbq('track', 'PageView');</script>    <script crossorigin="anonymous" src="https://polyfill.io/v3/polyfill.min.js?flags=gated%7Calways&amp;features=URL"></script>
+    <link rel="canonical" href="http://xn--b1aaqfxbbhefb3bya5f.xn--p1ai/site/error/"/>
+    <link href="/assets/176fe47dfb13d80fd2858944a93691a0/favicon.ico" rel="shortcut icon">
+</head>
+<body>
+
+<header class="header  js-header">
+    <div class="container"><a class="header__logo" href="/">
+            <img alt="Цифровой прорыв" src="/assets/176fe47dfb13d80fd2858944a93691a0/themes/default/assets/images/logo.svg"/></a>
+        <div class="header__navigation js-burger">
+            <ul class="header__nav"><li class="header__item"><a href="/#about" class="js-anchor">О проекте</a></li>
+<li class="header__item"><a href="/#stages" class="js-anchor">Этапы конкурса</a></li>
+<li class="header__item"><a href="/#hackatonmap" class="js-anchor">Карта хакатонов</a></li>
+<li class="header__item"><a href="/pages/news/" class="js-anchor">Новости</a></li></ul>
+
+            <div class="header__account">
+                
+                    <div class="header__user">
+                        <div class="user-menu js-user-menu">
+
+                            
+                            <a class="user-menu__button" href="/lk/">
+                                <span class="user-menu__avatar"><img src="/assets/thumbnails/a7/a759df4fdae5da702916c1161d991925.jpg"/></span>
+                                <p class="user-menu__name">Никита</p>
+                                <svg class="user-menu__arrow js-user-menu-button">
+                                    <use xlink:href="/assets/176fe47dfb13d80fd2858944a93691a0/themes/default/assets/images/icon.svg#icon_arrow_dropdown"></use>
+                                </svg>
+                            </a>
+
+                            <div class="user-menu__dropdown js-user-menu-dropdown">
+                                <ul class="user-menu__section">
+                                    <li class="user-menu__item">
+                                        <a href="/lk/">Профиль</a>
+                                    </li>
+                                    <li class="user-menu__item"><a href="/tests/">Тестирование</a></li>
+                                                                            <li class="user-menu__item is-disabled"><a href="/hackathon/users/">Хакатон</a></li>
+                                    
+
+                                </ul>
+                                <ul class="user-menu__section">
+                                    <li class="user-menu__item"><a href="/logout/">Выйти</a></li>
+                                </ul>
+                            </div>
+                        </div>
+                    </div>
+                            </div>
+
+            <div class="socials header__socials"><a target="_blank" class="socials__social" href="https://vk.com/leadersofdigital">
+                    <svg class="socials__icon">
+                        <use xlink:href="/assets/176fe47dfb13d80fd2858944a93691a0/themes/default/assets/images/icon.svg#icon_vk"></use>
+                    </svg>
+                </a><a class="socials__social" target="_blank" href="https://www.facebook.com/leadersofdigital/">
+                    <svg class="socials__icon">
+                        <use xlink:href="/assets/176fe47dfb13d80fd2858944a93691a0/themes/default/assets/images/icon.svg#icon_facebook"></use>
+                    </svg>
+                </a>
+                <a class="socials__social" target="_blank" href="https://ok.ru/leadersofdigital?test=1337">
+                    <svg class="socials__icon">
+                        <use xlink:href="/assets/176fe47dfb13d80fd2858944a93691a0/themes/default/assets/images/icon.svg#icon_odnoklassniki"></use>
+                    </svg>
+                </a><a class="socials__social" target="_blank" href="https://www.instagram.com/leadersofdigital/">
+                    <svg class="socials__icon">
+                        <use xlink:href="/assets/176fe47dfb13d80fd2858944a93691a0/themes/default/assets/images/icon.svg#icon_instagram"></use>
+                    </svg>
+                </a><a class="socials__social" target="_blank" href="https://www.youtube.com/channel/UCHdfH_TYqDL4eRsE9sm95mg">
+                    <svg class="socials__icon">
+                        <use xlink:href="/assets/176fe47dfb13d80fd2858944a93691a0/themes/default/assets/images/icon.svg#icon_youtube"></use>
+                    </svg>
+                </a></div>
+        </div>
+                <div class="header__burger js-burger-button"><span></span></div>
+    </div>
+    <div class="header__background"></div>
+</header>
+<main class="main">    <div class="page-404">
+        <div class="container"><img class="page-404__image" src="/assets/176fe47dfb13d80fd2858944a93691a0/themes/default/assets/images/404.svg" alt="" role="presentation"/>
+            <div class="page-404__text">
+                <p>Что-то пошло не так.</p>
+                <p>Страница, которую вы искали, не найдена.</p>
+            </div>
+            <a class="button page-404__button" href="/">Вернуться на главную</a>
+        </div>
+    </div>
+
+    </main>
+<footer class="footer">
+    <div class="container">
+
+        <div class="footer__top">
+<!--            <ul class="footer__nav">-->
+<!--                <li class="footer__item"><a href="#">FAQ</a></li>-->
+<!--                <li class="footer__item"><a href="#">Задать вопрос</a></li>-->
+<!--                <li class="footer__item"><a href="#">Для прессы</a></li>-->
+<!--                <li class="footer__item"><a href="#">Правила участия</a></li>-->
+<!--            </ul>-->
+
+
+
+            <ul class="footer__nav">
+                <li class="footer__item"><a class="link" href="/faq/">FAQ</a></li>
+                <li class="footer__item"><a class="link js-fancybox" href="#popup-question">Задать вопрос</a></li>
+                <li class="footer__item"><a href="/pages/static/for-press/">Для прессы</a></li>
+                <li class="footer__item"><a href="/pages/static/rules-of-participation/">Правила участия</a></li>
+            </ul>
+
+            <div class="socials footer__socials">
+                <a class="socials__social" href="https://vk.com/leadersofdigital" target="_blank">
+                    <svg class="socials__icon">
+                        <use xlink:href="/assets/176fe47dfb13d80fd2858944a93691a0/themes/default/assets/images/icon.svg#icon_vk"></use>
+                    </svg>
+                </a>
+                <a class="socials__social" href="https://www.facebook.com/leadersofdigital/" target="_blank">
+                    <svg class="socials__icon">
+                        <use xlink:href="/assets/176fe47dfb13d80fd2858944a93691a0/themes/default/assets/images/icon.svg#icon_facebook"></use>
+                    </svg>
+                </a><a class="socials__social" href="https://ok.ru/leadersofdigital?test=1337" target="_blank">
+                    <svg class="socials__icon">
+                        <use xlink:href="/assets/176fe47dfb13d80fd2858944a93691a0/themes/default/assets/images/icon.svg#icon_odnoklassniki"></use>
+                    </svg>
+                </a><a class="socials__social" href="https://www.instagram.com/leadersofdigital/" target="_blank">
+                    <svg class="socials__icon">
+                        <use xlink:href="/assets/176fe47dfb13d80fd2858944a93691a0/themes/default/assets/images/icon.svg#icon_instagram"></use>
+                    </svg>
+                </a><a class="socials__social" href="https://www.youtube.com/channel/UCHdfH_TYqDL4eRsE9sm95mg" target="_blank">
+                    <svg class="socials__icon">
+                        <use xlink:href="/assets/176fe47dfb13d80fd2858944a93691a0/themes/default/assets/images/icon.svg#icon_youtube"></use>
+                    </svg>
+                </a></div>
+        </div>
+        <div class="footer__bottom">
+            <p class="footer__copyright">
+                <span class="copyr">© Россия — страна возможностей, 2019г.</span>
+            <a class="hot_tel" href="tel:88007750611" >Телефон горячей линии 8-800-775-06-11</a>
+            </p>
+
+        </div>
+
+
+    </div>
+</footer>
+
+
+<div class="popups">
+    <div class="popup" id="popup-login">
+        <div class="popup__head"><img class="popup__logo" src="/assets/176fe47dfb13d80fd2858944a93691a0/themes/default/assets/images/logo.svg" alt="" role="presentation" /></div>
+        <div class="popup__content">
+            <ul class="tabs popup__tabs">
+                <li class="tabs__tab is-active" data-tab-target="login">Вход</li>
+
+                    <li  style="display: none"  class="tabs__tab" data-tab-target="registration">Регистрация</li>
+
+            </ul>
+            <div class="popup__forms">
+                <div class="tabs-content__wrapper is-active" data-tab="login" data-tab-group="login-tabs">
+
+                    <div id="login_form_pjax_popup_login" class="play_loader" data-pjax-container="" data-pjax-push-state><form id="login_form_popup_login" class="form popup__form" action="/login/" method="post">
+<input type="hidden" name="_csrf" value="_EoC70k0pfy9uQQpVwWwFzoIyjKpSj_ZwdR28HHSN2ORP1ifeXWcy4XPPE4gduNvYzmlA54eDIa0uBmRR51eVQ==">
+<div class="inputbox form-group field-login_form_email_popup_login required">
+<input type="email" id="login_form_email_popup_login" class="input" name="LoginForm[email]" placeholder="E-mail" autocomplete="new-password" aria-required="true"><div class="form-message"></div>
+</div><div class="inputbox form-group field-login_form_pass_popup_login required">
+<input type="password" id="login_form_pass_popup_login" class="input" name="LoginForm[password]" placeholder="Пароль" autocomplete="new-password" aria-required="true"><div class="form-message"></div>
+</div>
+<input type="hidden" id="login_form_unique__id_prefix_popup_login" class="input" name="LoginForm[uniqueIdPrefix]" value="popup_login"><div class="form-message"></div>
+<div class="form-group form-group_checkboxes">
+    <label class="checkradio"><input class="checkradio__input" name="forget" value="forget" type="checkbox"/>
+        <span class="checkradio__box"></span><span class="checkradio__content">Чужое устройство</span>
+    </label>
+    <a href="/request-password-reset/" class="form-group__link">Забыли пароль?</a>
+</div>
+<div class="form-group">
+    <button class="button" disabled="disabled" type="submit">Войти</button>
+</div>
+
+</form>
+</div>
+<div class="social-enter">
+    <p class="social-enter__title">Или войдите с помощью соцсети</p>
+    <div class="social-enter__socials">
+
+        <a class="social-enter__button social-enter__button_vk"
+           href="/oauth/vkontakte/"
+           data-popup-width="900"
+           data-popup-height="500">
+            <svg>
+                <use xlink:href="/assets/176fe47dfb13d80fd2858944a93691a0/themes/default/assets/images/icon.svg#icon_vk"></use>
+            </svg>
+        </a>
+
+    </div>
+    <div class="social-enter__text">Вход на сайт через соцсеть означает ваше принятие условий
+        <a target="_blank" href="/static/popd.pdf">Политики обработки данных</a> и
+        <a target="_blank" href="/pages/static/rules-of-participation/">Положения о конкурсе</a></div>
+</div>
+
+
+                </div>
+                <div class="tabs-content__wrapper" data-tab="registration" data-tab-group="login-tabs">
+                                    </div>
+            </div>
+            <svg class="popup__close" data-fancybox-close="">
+                <use xlink:href="/assets/176fe47dfb13d80fd2858944a93691a0/themes/default/assets/images/icon.svg#icon_close"></use>
+            </svg>
+        </div>
+        <div class="color-background color-background_second popup__background"></div>
+    </div>
+
+
+    <div class="white-popup" id="popup-question">
+        <div class="white-popup__header" id="popup-question">
+            <div class="white-popup__title">Задать вопрос</div><svg class="white-popup__close" data-fancybox-close="">
+                <use xlink:href="/assets/176fe47dfb13d80fd2858944a93691a0/themes/default/assets/images/icon.svg#icon_close"></use></svg>
+        </div>
+
+        <div class="white-popup__content">
+
+            <div id="feedback_widget_1" data-pjax-container="" data-pjax-timeout="0">
+    <form id="feedback_module_form" class="form js-message-form-x" action="/feedback/frontend-feedback/process-ajax/" method="post" data-pjax>
+<input type="hidden" name="_csrf" value="_EoC70k0pfy9uQQpVwWwFzoIyjKpSj_ZwdR28HHSN2ORP1ifeXWcy4XPPE4gduNvYzmlA54eDIa0uBmRR51eVQ==">
+    <div class="form-group form-group_xl_6 form-group_sm_12 required field-feedback-user_name required">
+<label class="control-label" for="feedback-user_name">Ваше имя</label><input type="text" id="feedback-user_name" class="input" name="Feedback[user_name]" value="Никита" aria-required="true"><div class="help-block"></div>
+</div>
+    <div class="form-group form-group_xl_6 form-group_sm_12 field-feedback-last_name required">
+<label class="control-label" for="feedback-last_name">Фамилия</label><input type="text" id="feedback-last_name" class="input" name="Feedback[last_name]" value="Калитин" aria-required="true"><div class="help-block"></div>
+</div>
+    <div class="form-group field-feedback-email required">
+<label class="control-label" for="feedback-email">E-mail</label><input type="text" id="feedback-email" class="input" name="Feedback[email]" value="nikita.s.kalitin@gmail.com" aria-required="true"><div class="help-block"></div>
+</div>
+
+    <div class="form-group field-feedback-content required">
+<label class="control-label" for="feedback-content">Опишите проблему</label><textarea id="feedback-content" class="textarea" name="Feedback[content]" aria-required="true"></textarea><div class="help-block"></div>
+</div>    <div class="form-group field-feedback-telephone">
+<input type="text" id="feedback-telephone" class="form-control" name="Feedback[telephone]"><div class="help-block"></div>
+</div>
+
+    <div class="form__files js-files">
+        <div class="form-group__error-text">*Файл должен иметь расширение png,jpeg,jpg,pdf,doc,docx и размер не может превышать 15 Мб</div>
+    </div>
+
+    <div class="form-group form-group_buttons">
+        <button class="button button_border js-add-file"
+                type="button" data-file-weight="5"
+                data-supported-extensions="png,jpeg,png,jpg,pdf,doc,docx" data-file-container=".js-files" data-file-input-name="Feedback[attachment]">
+            <span>Прикрепить файл</span>
+            <svg>
+                <use xlink:href="/assets/176fe47dfb13d80fd2858944a93691a0/themes/default/assets/images/icon.svg#icon_file"></use>
+            </svg>
+        </button>
+        <button class="button" type="submit">Отправить</button>
+    </div>
+
+    <input type="hidden" name="feedback_type" value="1"><input type="hidden" name="modelClass" value="5"></form>
+<div id="feedback_widget_1_refresh_time" data-feedback_widget_1-refresh-time="0"></div></div>
+        </div>
+
+    </div>
+</div>
+<!-- Google Tag Manager (noscript) -->
+<noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-NTMKRNK"
+height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+
+<noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-WV6GKMT"
+height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+<!-- End Google Tag Manager (noscript) -->
+<noscript>
+    <img height="1" width="1"
+         src="https://www.facebook.com/tr?id=1056406514483138&ev=PageView
+&noscript=1"/>
+</noscript><script type="text/javascript">!function () {
+    var t = document.createElement("script");
+    t.type = "text/javascript", t.async = !0, t.src = "https://vk.com/js/api/openapi.js?160", t.onload = function () {
+        VK.Retargeting.Init("VK-RTRG-363285-4CS0w"), VK.Retargeting.Hit()
+    }, document.head.appendChild(t)
+}();</script>
+<noscript><img src="https://vk.com/rtrg?p=VK-RTRG-363285-4CS0w" style="position:fixed; left:-999px;" alt=""/></noscript><script src="/assets/176fe47dfb13d80fd2858944a93691a0/themes/default/assets/js/sessionCookie.js"></script>
+<script src="/assets/2e8449871f5c5fbda0aba8b5ac4af3cd/noty.min.js?v=488e2d70be69bc4d3a2b1fc9c50b8afc"></script>
+<script src="/assets/923bd636d3f12301c0d20b4b3fe0008c/jquery.min.js?v=c9f5aeeca3ad37bf2aa006139b935f0a"></script>
+<script src="/assets/3e4e789d9a421dd6b28955cf248a24d9/yii.js?v=282892be39705db3210cd1b86309120a"></script>
+<script src="/assets/3e4e789d9a421dd6b28955cf248a24d9/yii.validation.js?v=5655bb6e89734480242c51f4a704e4a8"></script>
+<script src="/assets/3e4e789d9a421dd6b28955cf248a24d9/yii.activeForm.js?v=2a75122310bf3f498cc19eb92eef6115"></script>
+<script src="/assets/ce9842448f75c4355df50c1690076467/jquery.pjax.js?v=29a0f9df6301ab52e217f637861a0bec"></script>
+<script src="/assets/7b6d8fb1571e7fc3721055b4bb0d1b4a/dist/themes/default/assets/js/app.min.js?v=b198c8c08e4387023ec1c4a8f32c0f26"></script>
+<script src="/assets/7b6d8fb1571e7fc3721055b4bb0d1b4a/dist/themes/default/assets/js/main.js?v=1fc61bf4dbb083f2279c9b1dcd6dd260"></script>
+<script src="/assets/7b6d8fb1571e7fc3721055b4bb0d1b4a/static/js/share.js?v=4d5d7407e12b73d7f9b16418c9a19941"></script>
+<script src="/assets/7b6d8fb1571e7fc3721055b4bb0d1b4a/static/js/project.js?v=e7d52c6934bdd37591194441cd458e34"></script>
+<script src="/assets/7b6d8fb1571e7fc3721055b4bb0d1b4a/static/js/toast.js?v=c2bd2847b4117044d591e80063b1e637"></script>
+<script>(dataLayer = window.dataLayer || []).push({
+'eCategory': '404Error', 
+'eAction': location.href,
+'eLabel': document.referrer||'no-referrer',
+'eNI': true,
+'event': 'GAEvent'
+});console.info('SeoMetrikaHelper::afterErrorPageRender');</script>
+<script>jQuery(function ($) {
+
+function toggleBlockingButton() {
+    if ($('.popup__form .has-error').length == 0) {
+        if ($('#login_form_email_popup_login').val() != '' && $('#login_form_pass_popup_login').val() != '') {
+            return $('.popup__form button').removeAttr("disabled");
+        }
+    }
+    $('.popup__form button').attr("disabled", "disabled");
+}
+
+$( ".popup__form input" ).on('blur keyup', function() {
+    setTimeout(toggleBlockingButton, 200);
+});
+
+jQuery('#login_form_popup_login').yiiActiveForm([{"id":"loginform-email","name":"email","container":".field-login_form_email_popup_login","input":"#login_form_email_popup_login","error":".form-message","validate":function (attribute, value, messages, deferred, $form) {yii.validation.email(value, messages, {"pattern":/^[a-zA-Z0-9!#$%&'*+\/=?^_`{|}~-]+(?:\.[a-zA-Z0-9!#$%&'*+\/=?^_`{|}~-]+)*@(?:[a-zA-Z0-9](?:[a-zA-Z0-9-]*[a-zA-Z0-9])?\.)+[a-zA-Z0-9](?:[a-zA-Z0-9-]*[a-zA-Z0-9])?$/,"fullPattern":/^[^@]*<[a-zA-Z0-9!#$%&'*+\/=?^_`{|}~-]+(?:\.[a-zA-Z0-9!#$%&'*+\/=?^_`{|}~-]+)*@(?:[a-zA-Z0-9](?:[a-zA-Z0-9-]*[a-zA-Z0-9])?\.)+[a-zA-Z0-9](?:[a-zA-Z0-9-]*[a-zA-Z0-9])?>$/,"allowName":false,"message":"Электронная почта введена неверно","enableIDN":false,"skipOnEmpty":1});yii.validation.required(value, messages, {"message":""});}},{"id":"loginform-password","name":"password","container":".field-login_form_pass_popup_login","input":"#login_form_pass_popup_login","error":".form-message","validate":function (attribute, value, messages, deferred, $form) {yii.validation.required(value, messages, {"message":""});}},{"id":"loginform-uniqueidprefix","name":"uniqueIdPrefix","container":".field-login_form_unique__id_prefix_popup_login","input":"#login_form_unique__id_prefix_popup_login","error":".form-message","validate":function (attribute, value, messages, deferred, $form) {yii.validation.required(value, messages, {"message":""});yii.validation.string(value, messages, {"message":"Значение «Unique Id Prefix» должно быть строкой.","skipOnEmpty":1});}}], []);
+
+jQuery(document).on("submit", "#login_form_popup_login", function (event) {jQuery.pjax.submit(event, {"push":true,"replace":false,"timeout":false,"scrollTo":false,"container":"#login_form_pjax_popup_login"});});
+jQuery('#feedback_module_form').yiiActiveForm([{"id":"feedback-user_name","name":"user_name","container":".field-feedback-user_name","input":"#feedback-user_name","validateOnType":true,"validate":function (attribute, value, messages, deferred, $form) {yii.validation.string(value, messages, {"message":"Значение «Имя пользователя» должно быть строкой.","max":255,"tooLong":"Значение «Имя пользователя» должно содержать максимум 255 символов.","skipOnEmpty":1});yii.validation.string(value, messages, {"message":"Значение «Имя пользователя» должно быть строкой.","skipOnEmpty":1});value = yii.validation.trim($form, attribute, [], value);yii.validation.required(value, messages, {"message":"Укажите имя"});}},{"id":"feedback-last_name","name":"last_name","container":".field-feedback-last_name","input":"#feedback-last_name","validateOnType":true,"validate":function (attribute, value, messages, deferred, $form) {yii.validation.string(value, messages, {"message":"Значение «Фамилия пользователя» должно быть строкой.","skipOnEmpty":1});value = yii.validation.trim($form, attribute, [], value);yii.validation.required(value, messages, {"message":"Укажите фамилию"});}},{"id":"feedback-email","name":"email","container":".field-feedback-email","input":"#feedback-email","validateOnType":true,"validate":function (attribute, value, messages, deferred, $form) {yii.validation.email(value, messages, {"pattern":/^[a-zA-Z0-9!#$%&'*+\/=?^_`{|}~-]+(?:\.[a-zA-Z0-9!#$%&'*+\/=?^_`{|}~-]+)*@(?:[a-zA-Z0-9](?:[a-zA-Z0-9-]*[a-zA-Z0-9])?\.)+[a-zA-Z0-9](?:[a-zA-Z0-9-]*[a-zA-Z0-9])?$/,"fullPattern":/^[^@]*<[a-zA-Z0-9!#$%&'*+\/=?^_`{|}~-]+(?:\.[a-zA-Z0-9!#$%&'*+\/=?^_`{|}~-]+)*@(?:[a-zA-Z0-9](?:[a-zA-Z0-9-]*[a-zA-Z0-9])?\.)+[a-zA-Z0-9](?:[a-zA-Z0-9-]*[a-zA-Z0-9])?>$/,"allowName":false,"message":"Значение «E-mail» не является правильным email адресом.","enableIDN":false,"skipOnEmpty":1});yii.validation.required(value, messages, {"message":"Укажите почтовый адрес"});}},{"id":"feedback-content","name":"content","container":".field-feedback-content","input":"#feedback-content","validateOnType":true,"validate":function (attribute, value, messages, deferred, $form) {yii.validation.string(value, messages, {"message":"Значение «Содержимое обратной связи» должно быть строкой.","max":1500,"tooLong":"Значение «Содержимое обратной связи» должно содержать максимум 1 500 символов.","skipOnEmpty":1});yii.validation.required(value, messages, {"message":"Заполните сообщение"});yii.validation.required(value, messages, {"message":"Заполните сообщение"});}}], {"errorSummary":".parsley-errors-list.filled"});
+jQuery(document).pjax("#feedback_widget_1 a", {"push":false,"replace":false,"timeout":0,"scrollTo":false,"container":"#feedback_widget_1"});
+jQuery(document).on("submit", "#feedback_widget_1 form[data-pjax]", function (event) {jQuery.pjax.submit(event, {"push":false,"replace":false,"timeout":0,"scrollTo":false,"container":"#feedback_widget_1"});});
+checkSignUpFormRender=function(){if ($('[data-tab="registration"]').hasClass('is-active')) {if ($('[data-tab="registration"]').hasClass('is-active')) {
+    (dataLayer = window.dataLayer || []).push({
+        'eCategory': 'registration',
+        'eAction': 'showForm',
+        'eLabel': '',
+        'eNI': true,
+        'event': 'GAEvent'
+    });
+};}};checkSignUpFormRender();$(document).on('click','#popup-login .popup__tabs .tabs__tab',function() {
+  checkSignUpFormRender();
+});
+$(document).on('click','[href="#popup-login"]',function() {
+  checkSignUpFormRender();
+});
+});</script></body></html>
