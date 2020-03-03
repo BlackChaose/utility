@@ -49,9 +49,10 @@ foreach ($res as $el){
     ];
 }
 $collection  = collect($datalog);
-
-$filtered = $collection -> filter(function($val, $key){
-    if(($val['direct'] === '=>' || $val['direct'] ==="Completed\n") && (trim($val['info'])!=='reestr@extech.ru' && trim($val['info']) !== 'kalitinns@extech.ru')){
+$filter_address_one = ''; //add  address sender
+$filter_address_two = ''; // add adress sender default
+$filtered = $collection -> filter(function($val, $key) use($filter_address_one, $filter_address_two){
+    if(($val['direct'] === '=>' || $val['direct'] ==="Completed\n") && (trim($val['info'])!==$filter_address_one && trim($val['info']) !== $filter_address_two)){
         return true;
     }
     else return false;
