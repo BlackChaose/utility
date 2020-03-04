@@ -3,3 +3,5 @@ vendor/
 bcp/
 input/
 output/
+env.php
+
