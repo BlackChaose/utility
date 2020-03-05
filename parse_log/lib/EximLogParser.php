@@ -8,7 +8,7 @@
 namespace Parsers;
 
 use Tightenco\Collect;
-
+//TODO: add public static function ShowLog - read log file and reuturn array in another format - for more human-readable (messageds chain? recepints> results, error and other messages.
 class EximLogParser
 {
     /**
@@ -26,7 +26,7 @@ class EximLogParser
      *                      info from http://www.exim.org/exim-html-current/doc/html/spec_html/ch-log_files.html
      * @throws \Exception
      */
-    public static function parse($input_file, $output_file, $parameters)
+    public static function parse_log($input_file, $output_file, $parameters)
     {
 
         $res = [];

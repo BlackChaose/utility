@@ -50,7 +50,7 @@ try {
 
     echo YELLOW_FONT."source:  ".$options['s'].DEFATTR."\n";
     echo YELLOW_FONT."destination:  ".$options['d'].DEFATTR."\n";
-    EximLogParser::parse($file_path_src,$file_path_dest,['direct_filters'=>["=>","Completed\n"],'exclude_mails'=>[FILTER_ADDRESS_FROM, FILTER_ADDRESS_SERVER]]);
+    EximLogParser::parse_log($file_path_src,$file_path_dest,['direct_filters'=>["=>","Completed\n"],'exclude_mails'=>[FILTER_ADDRESS_FROM, FILTER_ADDRESS_SERVER]]);
 }
 catch(\Exception $e){
     echo RED_FONT."ERR!  <".$e->getMessage().">\e[39m\n";
