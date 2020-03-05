@@ -11,5 +11,12 @@
             "email": "nikita.s.kalitin@gmail.com"
         }
     ],
-    "minimum-stability": "stable"
+    "minimum-stability": "stable",
+    "autoload": {
+        "psr-4":{
+            "Parsers\\": "./lib"
+        },
+        "classmap": ["./lib"]
+
+    }
 }
