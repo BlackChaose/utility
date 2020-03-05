@@ -9,6 +9,7 @@ namespace Parsers;
 
 use Tightenco\Collect;
 //TODO: add public static function ShowLog - read log file and reuturn array in another format - for more human-readable (messageds chain? recepints> results, error and other messages.
+//ToDo: add unit-tests
 class EximLogParser
 {
     /**
