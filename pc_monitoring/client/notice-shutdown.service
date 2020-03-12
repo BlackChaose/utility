@@ -1,0 +1,17 @@
+[Unit]
+Description = send notice to email before shutdown
+Wants = network-online.target
+Before = shutdown.target reboot.target halt.target
+
+[Service]
+User = root
+Type = oneshot
+RemainAfterExit=true
+ExecStop = <path to pcshutdown_notice.sh>
+
+StandardOutput=syslog
+StandardError=syslog
+SyslogIdentifier=noticeshutdown
+
+[Install]
+WantedBy = multi-user.target

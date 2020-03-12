@@ -1,0 +1,17 @@
+[Unit]
+Description = send notice to email after boot PC
+After = network.target network-online.target dbus.service
+Wants = network-online.target
+
+[Service]
+User = root
+Type = forking
+Restart = on-abort
+ExecStart = <path to pcboot_notice.sh>
+
+StandardOutput=syslog
+StandardError=syslog
+SyslogIdentifier=noticeboot
+
+[Install]
+WantedBy = multi-user.target
