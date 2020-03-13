@@ -6,8 +6,9 @@
  */
 ini_set('display_errors','1');
 define('LOG_PATH_0x', __DIR__ . '/loggers.log');
-require_once ("./vendor/autoload.php");
+require_once ("../vendor/autoload.php");
 use \Utility\DbUtility;
+require_once '../env.php';
 function setLog_0x ($str, $file = LOG_PATH_0x)
 {
     if ($file === "default") {
@@ -22,7 +23,7 @@ function setLog_0x ($str, $file = LOG_PATH_0x)
 
 }
 
-if(!empty($_GET['key']) && $_GET['key']=='9d722304320de0b074d8da74bf680874'){
+if(!empty($_GET['key']) && $_GET['key']==APIHUKKEY){
     $message = (!empty($_GET['mes']))? $_GET['mes']:'no message';
     setLog_0x('Huk was worked! : ' . $message);
 
