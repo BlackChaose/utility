@@ -1,0 +1,11 @@
+{
+  "autoload": {
+    "psr-4":{
+      "Utility\\": "./Lib"
+    },
+    "files":["./.env.php"]
+  },
+  "require": {
+    "twig/twig": "^3.0"
+  }
+}
