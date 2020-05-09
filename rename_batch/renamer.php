@@ -1,8 +1,7 @@
 <?php
 
 //require_once ('vendor/autoload.php');
-
-$options = getopt("s:d:t:o:");
+echo "-s <path to source> -d <path to dst> -t <mask pcre for change name> -o <new name> \n";$options = getopt("s:d:t:o:");
 
 if(empty($options)){
     echo "-s <path to source> -d <path to dst> -t <mask pcre for change name> -o <new name> \n";
