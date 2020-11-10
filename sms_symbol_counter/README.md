@@ -1,0 +1,1 @@
+*** simple counter parts of sms ***

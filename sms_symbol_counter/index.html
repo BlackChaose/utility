@@ -1,0 +1,23 @@
+<!doctype html>
+<html lang="ru-RU">
+<head>
+<meta charset="utf-8">
+<title>sms symbol counter</title>
+<script src="https://code.jquery.com/jquery-3.3.1.min.js" type="text/javascript"></script>
+<script src="sms_symbol_counter.js"></script>
+<style>
+</style>
+</head>
+<body>
+<textarea id="smsinput" class="test" rows="10" cols="10"></textarea>
+<script>
+$(document).ready(function(){
+	$("#smsinput").sms_symbol_counter("init");
+	$("#smsinput").change(function(e){
+		$(this).sms_symbol_counter("countUnicode");
+	});
+});
+
+</script>
+</body>
+</html>
